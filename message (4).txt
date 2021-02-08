@@ -1,0 +1,644 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Valorant: Guides, Tips, and Tricks</title>
+    <style>
+        p {
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+        }
+        p.weapon-overview-paragraph {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        #title {
+            background-color: rgb(250, 68, 84);
+            font-size: 50px
+        }
+
+        #weapon-title {
+            background-color: rgb(250, 68, 84);
+            font-size: 50px
+        }
+
+        #description {
+            font-size: 20px;
+            font-weight: bold;
+            color: rgb(54, 73, 102);
+            margin-left: 500px;
+            margin-right:500px;
+        }
+        .weapon-overview-paragraph {
+            margin-left: 500px;
+            margin-right: 500px;
+            background-color: rgb(54, 73, 102);
+            color: rgb(255, 255, 255);
+            border-color: rgb(54, 73, 102);
+            border-style: solid;
+            border-width: 40px;
+
+            
+        }
+        * {
+            text-align:center;
+            background-color: rgb(250, 68, 84);
+            font-family: sans-serif, Cambria;
+        }
+        .weapon-images {
+            width: 250px;
+        }
+        h1 {
+            font-weight: bold;
+            color: rgb(54, 73, 102);
+        }
+        h3 {
+            color: rgb(54, 73, 102);
+        }
+        
+        .weapon-overview {
+            background-color:rgb(54, 73, 102);
+        }
+
+
+        #op {
+            padding-bottom: 100px;
+        }
+
+        #header-image {
+            padding-top: 100px;
+        }
+        #agent-image {
+            width:250px;
+        }
+        .agent-description {
+            margin-left: 500px;
+            margin-right: 500px;
+            background-color: rgb(54, 73, 102);
+            color: rgb(255, 255, 255);
+            border-color: rgb(54, 73, 102);
+            border-style: solid;
+            border-width: 40px;
+        }
+        h2 {
+            color:rgb(54, 73, 102);
+        }
+
+        #description {
+            padding-bottom: 50px;
+        }
+
+        .agent-type {
+            padding-top: 50px;
+        }
+
+        #tips-and-tricks-box {
+            width: 400px;
+            margin: auto;
+            border: 1px solid rgb(250, 68, 84);
+            border-top: 10px solid rgb(250, 68, 84);
+            color:rgb(54, 73, 102);
+            font-weight: bold;
+            padding-bottom: 50px;
+        }
+        #agent-tables {
+            margin-left: 100px;
+            margin-right: 100px;
+            color:rgb(54, 73, 102);
+            font-weight: bold;
+        }
+
+       
+    </style>
+</head>
+<body>
+
+    <img id="header-image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Valorant_logo_-_black_color_version.svg/1280px-Valorant_logo_-_black_color_version.svg.png" width="300">
+
+    <div style="padding-top: 50px; "><a href="https://playvalorant.com">Official Valorant Webpage</a>
+        </div>
+        <div style="padding-bottom: 50px; "><a href="https://valorant.fandom.com/">Valorant Fan-Made Wiki</a></div>
+
+    <h1 class="table-of-contents">Table of Contents</h1>
+
+    <p><a href="#title">Agent Descriptions</a></p>
+    <p><a href="#weapon-title">Weapon Overview</a></p>
+    <p><a href="#tips-and-tricks-box">Tips and Tricks</a></p>
+    <h1 id="title">Agents</h1>
+    <p id="description">Every agent in Valorant has their own unique abilities, strengths, and weaknesses. Find out about them here.</p>
+
+    <h2 class="agent-type">Duelists</h2>
+    <p id="description">Duelists are self-sufficent fraggers who their team expects, through abilites and skills, to get high frags and seek out engagements first.</p>
+
+    <h3>Phoenix</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/f/fa/Phoenix_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020246">
+    <p class="agent-description">Hailing from the U.K., Phoenix's star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he's got backup or not, he'll rush into a fight on his own terms.</p>
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Blaze" - Equip a flame wall. Fire to create a line of flames that moves forward creating a wall that blocks vision and damages players passing through it. Hold Fire to bend the wall in the direction of your crosshair.</td>
+                <td>"Hot Hands" - Equip a fireball. Fire to throw a fireball that explodes after a set amount of time or upon hitting the ground, creating a lingering fire zone that damages enemies.</td>
+                <td>"Run it Back" - Instantly place a marker at Phoenix's location. While this ability is active, dying or allowing the timer to expire will end this ability and bring Phoenix back to this location with full health.</td>
+            </tr>
+            <tr>
+                <td>"Curveball" - Equip a flare orb that takes a curving path and detonates shortly after throwing. Fire to curve the flare orb to the left, detonating the blinding any player who sees the orb. Alternate fire to curve the flare orb to the right.</td>
+                <td>‎‎‎‏‏‎ ‎</td>
+                <td>‎‎‎‏‏‎ ‎</td>
+            </tr>
+        </tbody>
+    </table>
+    
+    <h3>Jett</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/7/79/Jett_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020209">
+    <p class="agent-description">Representing her home country of South Korea, Jett's agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them.</p>
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Cloudburst" - Throw out a cloud of fog that obscures vision on impact. Hold down the ability button to bend the cloud’s in-flight trajectory.</td>
+                <td>"Tailwind" - Instantly propel in the direction she is moving. If Jett is standing still, she will propel forward.</td>
+                <td>"Blade Storm" - Equip a set of highly accurate throwing knives that recharge on an opponent. Fire to throw a single knife at your target. Alternative Fire to throw all remaining daggers at your target.</td>
+            </tr>
+            <tr>
+                <td>"Updraft" - Instantly propel Jett high into the air.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Raze</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/c/c4/Raze_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020217">
+    <p class="agent-description">Raze explodes out of Brazil with her big personality and big guns. With her blunt-force-trauma playstyle, she excels at flushing entrenched enemies and clearing tight spaces with a generous dose of “boom.”</p>
+
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Boom Bot" - Equip a Boom Bot. Fire will deploy the bot, causing it to travel in a straight line on the ground, bouncing off walls. The Boom Bot will lock on to any enemies in its frontal cone and chase them, exploding for heavy damage if it reaches them.</td>
+                <td>"Paint Shells" - Equip a cluster grenade. Fire to throw the grenade, which does damage and creates sub-munitions, each doing damage to anyone in their range.</td>
+                <td>"Showstopper" - Equip a rocket launcher. Fire shoots a rocket that does massive area damage on contact with anything.</td>
+            </tr>
+            <tr>
+                <td>"Blast Pack" - Instantly throw a Blast Pack that will stick to surfaces. Re-use the ability after deployment to detonate, damaging and moving anything hit. Raze isn't damaged by this ability, but will still take fall damage if launched up far enough.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Yoru</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/a/a1/Yoru2.png/revision/latest/scale-to-width-down/326?cb=20210112180407">
+    <p class="agent-description">Japanese native, Yoru, rips holes straight through reality to infiltrate enemy lines unseen. Using deception and aggression in equal measure, he gets the drop on each target before they know where to look.</p>
+
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Fakeout" - Equip an echo that mimics footsteps when activated. FIRE to activate and send the echo forward Alt fire to place an echo in place. Use the inactive echo to send it forward.</td>
+                <td>"Gatecrash" - Equip to harness a rift tether. Fire to send the tether out moving forward. Alt fire to place a tether in place. Activate to teleport to the tether's location.</td>
+                <td>"Dimensional Drift" - Equip a mask that can see between dimensions. Fire to drift into Yoru's dimension, unable to be affected or seen by enemies from the outside.</td>
+            </tr>
+            <tr>
+                <td>"Blindside" - Equip to rip an unstable dimensional fragment from reality. Fire to throw the fragment, activating a flash that winds up once it collides with a hard surface in the world. </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Reyna</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/4/41/Reyna_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020340">
+    <p class="agent-description">Forged in the heart of Mexico, Reyna dominates single combat, popping off with each kill she scores. Her capability is only limited by her raw skill, making her highly dependent on performance.</p>
+    
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Leer" - Equip an ethereal eye. Activate to cast the eye a short distance forward at a fixed range, passing through obstructions in the way. The eye will Nearsight all enemies who can see it. The eye will disappear either after two seconds or receiving any bullet damage.</td>
+                <td>"Dismiss" - Instantly consume a nearby Soul Orb, becoming intangible for 2 seconds and gaining a burst of movement speed for the first second of the duration. Reyna can change what weapon she will equip whilst Dismiss is active, always equipping the last weapon selected during Dismiss.
+                    If Empress is active, Reyna also becomes invisible.</td>
+                <td>"Empress" - Enter a frenzy for 30 seconds, increasing firing, equip and reload speeds by 15%. Grants infinite charges of Soul Harvest abilities. Scoring a kill fully refreshes the duration.</td>
+            </tr>
+            <tr>
+                <td>"Devour" - Instantly consume a nearby Soul Orb, disabling Reyna's ability to fire for 1 second and creating a tether between Reyna and the Soul Orb whilst rapidly healing for 100 health over 3 seconds.</td>
+
+            </tr>
+        </tbody>
+    </table>
+
+    <h2 class="agent-type">Sentinels</h2>
+    <p id="description">Sentinels are defensive experts who can lock down areas and watch flanks, both on attacker and defender rounds.</p>
+
+    <h3>Sage</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/1/1e/Sage_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020306">
+    <p class="agent-description">The stronghold of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight.</p>
+    
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Barrier Orb" - Equip a barrier orb. Fire places a solid wall. Alternate fire rotates the targeter.</td>
+                <td>"Dismiss" - Instantly consume a nearby Soul Orb, becoming intangible for 2 seconds and gaining a burst of movement speed for the first second of the duration. Reyna can change what weapon she will equip whilst Dismiss is active, always equipping the last weapon selected during Dismiss.
+                    If Empress is active, Reyna also becomes invisible.</td>
+                <td>"Healing Orb" - Equip a healing orb. Fire with your crosshairs over a damaged ally to activate a heal-over-time on them. Alternate fire while Sage is damaged to activate a self heal-over-time.</td>
+            </tr>
+            <tr>
+                <td>"Slow Orb" - Equip a slowing orb. Fire to throw a slowing orb forward that detonates upon landing, creating a lingering field that slows and grounds players caught inside of it.</td>
+
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Cypher</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/b/bb/Cypher_artwork.png/revision/latest?cb=20200602020329">
+    <p class="agent-description">The Moroccan information broker, Cypher is a one-man surveillance network who keeps tabs on the enemy's every move. No secret is safe. No maneuver goes unseen. Cypher is always watching.</p>
+
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Tripwire" - Place a tripwire on a vertical or horizontal surface. The mirrored wall must also be solid and not too far from the origin. Once placed, quickly goes into covert, hiding from enemies. Enemies entering the line of the Trapwire will be pulled, forcing the player to shoot the Trapwire to escape or take small damage and be concussed when not shot in time. Once the Tripwire is triggered, the location of the enemy is revealed.</td>
+                <td>"Spycam" - Equip a spycam. Fire to place the spycam at the targeted location. REUSE this ability to take control of the camera's view. While in control of the camera. Fire to shoot a marking dart. This dart will reveal the location of any player struck by the dart.</td>
+                <td>"Neural Theft" - Instantly use on a dead enemy player in your crosshairs to reveal the location of all living enemy players.</td>
+            </tr>
+            <tr>
+                <td>"Cyber Cage" - Equip a cyber cage. Fire to toss the cyber cage in front of Cypher. Activate to create a zone that blocks vision and slows enemies who pass through it.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Killjoy</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/8/8c/Killjoy.png/revision/latest/scale-to-width-down/220?cb=20200729134445">
+    <p class="agent-description">The genius of Germany. Killjoy secures the battlefield with ease using her arsenal of inventions. If the damage from her gear doesn't stop her enemies, her robots' debuff will help make short work of them.</p>
+
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Alarmbot" - Deploy an Alarmbot on a solid surface. Once deployed, the Alarmbot will quickly become covert to enemies. If any enemies enter the Alarmbot's detection range, it will quickly rush torwards enemies, breaking and applying Vulnerable to nearby exposed enemies. Once triggered, the placer's team will be warned.</td>
+                <td>"Turret" - "EQUIP a Turret. FIRE to deploy a turret that fires at enemies in a 180 degree cone. HOLD EQUIP to recall the deployed turret."</td>
+                <td>"Neural Theft" - Instantly use on a dead enemy player in your crosshairs to reveal the location of all living enemy players.</td>
+            </tr>
+            <tr>
+                <td>"Nanoswarm" - Equip a Nanoswarm grenade. Fire to throw the grenade. Upon landing, the Nanoswarm goes covert. Activate the Nanoswarm to deploy a damaging swarm of nanobots</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h2 class="agent-type">Controllers</h2>
+    <p id="description">Controllers are experts in slicing up dangerous territory to set their team up for success.</p>
+    
+    <h3>Omen</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/0/06/Omen_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020233">
+    <p class="agent-description">A phantom of a memory, Omen hunts in the shadows. He renders enemies blind, teleports across the field, then lets paranoia take hold as his foe scrambles to learn where he might strike next.</p>
+
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Shrouded Step" - Equip a shadow walk ability and see its range indicator. Fire to begin a brief channel, then teleport to the marked location.</td>
+                <td>"Dark Cover" - "Equip a shadow orb and see its range indicator. Fire to throw the shadow orb to the marked location, creating a long-lasting shadow sphere that blocks vision. Hold Alternate Fire while targeting to move the marker further away. Hold the ability key with targeting to move the market closer."</td>
+                <td>"From the Shadows" - Equip a tactical map. Fire to begin teleporting to the selected location. While teleporting, Omen will appear as a Shade that can be destroyed by an enemy to cancel his teleport.</td>
+            </tr>
+            <tr>
+                <td>"Nanoswarm" - Instantly fire a shadow projectile forward, briefly reducing the vision range of all players it touches. This projectile can pass straight through walls.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Brimstone</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/3/37/Brimstone_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020239">
+    <p class="agent-description">Joining from the USA, Brimstone's orbital arsenal ensures his squad always has the advantage. His ability to deliver utility precisely and from a distance make him an unmatched boots-on-the-ground commander.</p>
+
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Incendiary" - Equip an Incendiary grenade launcher. Fire to launch a grenade that detonates as it comes to a rest on the floor, creating a lingering fire zone that damages players within the zone.</td>
+                <td>"Sky Smoke" - "Equip a tactical map. Fire to set locations where Brimstone's smoke clouds will land. Alternate Fire to confirm, launching long-lasting smoke clouds that block vision in the selected area."</td>
+                <td>"Orbital Strike" - Equip a tactical map. Fire to launch a lingering orbital strike laser at the selected location dealing high damage over-time to players caught in the selected area.</td>
+            </tr>
+            <tr>
+                <td>"Stim Beacon" - Throw a Stim Beacon providing Combat Stim to Brimstone and allies, allowing faster fire rate, reload speed, weapon swap speed and recoil recovery speed.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Viper</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/9/91/Viper_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020322">
+    <p class="agent-description">The American chemist, Viper deploys an array of poisonous chemical devices to control the battlefield and cripple the enemy's vision. If the toxins don't kill her prey, her mind games surely will.</p>
+
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Snake Bite" - Equip a chemical launcher. Fire to launch a canister that shatters upon hitting the floor, creating a lingering chemical zone that damages and slows enemies.</td>
+                <td>"Toxic Screen" - Equip a gas emitter launcher. Fire to deploy a long line of gas emitters. Re-use the ability to create a tall wall of toxic gas at the cost of fuel. This ability can be re-used more than once.</td>
+                <td>"Viper's Pit" - Equip a chemical sprayer. Fire to spray a chemical cloud in all directions around Viper, creating a large cloud that reduces the vision range and maximum health of players inside of it.</td>
+            </tr>
+            <tr>
+                <td>"Poison Cloud" - Equip a gas emitter. Fire to throw the emitter that perpetually remains throughout the round. Re-use the ability to create a toxic gas cloud at the cost of fuel. This ability can be re-used more than once and can be picked up to be redeployed.</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+    <h2 class="agent-type">Initiators</h2>
+    <p id="description">Initiators challenge angles by setting up their team to enter contested ground and push defenders away.</p>
+
+    <h3>Breach</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/5/5c/Breach_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020225">
+    <p class="agent-description">Breach, the bionic Swede, fires powerful, targeted kinetic blasts to aggressively clear a path through enemy ground. The damage and disruption he inflicts ensures no fight is ever fair.</p>
+
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Aftershock" - Equip a fusion charge. Fire the charge to set a slow-acting burst through the wall. The burst does heavy damage to anyone caught in its area.</td>
+                <td>"Fault Line" - Equip a seismic blast. Hold Fire to increase the distance. Release to set off the quake, dazing all players in its zone and in a line up to the zone.</td>
+                <td>"Rolling Thunder" - Equip a seismic charge. Fire to send a cascading quake through all terrain in a large cone. The quake dazes and knocks up anyone caught in it.</td>
+            </tr>
+            <tr>
+                <td>"Flashpoint" - Equip a blinding charge. Fire the charge to set a fast-acting burst through the wall. The charge detonates to blind all players looking at it.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Skye</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/b/b9/Skye_Keyart_final.png/revision/latest/scale-to-width-down/326?cb=20201013182515">
+    <p class="agent-description">Hailing from Australia, Skye and her band of beasts trail-blaze the way through hostile territory. With her creations hampering the enemy, and her power to heal others, the team is strongest and safest by Skye’s side.</p>
+    
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Regrowth" - EQUIP a healing trinket. HOLD FIRE to channel, healing allies in range and line of sight. Can be reused until her healing pool is depleted. Skye cannot heal herself.</td>
+                <td>"Guiding Light" - EQUIP a hawk trinket. FIRE to send it forward. HOLD FIRE to guide the hawk in the direction of your crosshair. RE-USE while the hawk is in flight to transform it into a flash that plays a hit confirm if an enemy was within range and line of sight.</td>
+                <td>"Seekers" - EQUIP a Seeker trinket. FIRE to send out three Seekers to track down the three closest enemies. If a Seeker reaches its target, it nearsights them.</td>
+            </tr>
+            <tr>
+                <td>"Trailblazer" - EQUIP a Tasmanian tiger trinket. FIRE to send out and take control of the predator. While in control, FIRE to leap forward, exploding in a concussive blast and damaging directly hit enemies.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h3>Sova</h3>
+    <img id="agent-image" src="https://static.wikia.nocookie.net/valorant/images/6/61/Sova_artwork.png/revision/latest/scale-to-width-down/326?cb=20200602020314">
+    <p class="agent-description">Born from the eternal winter of Russia's tundra, Sova tracks, finds, and eliminates enemies with ruthless efficiency and precision. His custom bow and incredible scouting abilities ensure that even if you run, you cannot hide.</p>
+
+    <h3>Abilities</h3>
+    <table id="agent-tables">
+        <thead>
+            <tr>
+                <th>Basic Abilities</th>
+                <th>Signature Ability</th>
+                <th>Ultimate Ability</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>"Owl Drone" - Equip a owl drone. Fire to deploy and take control of movement of the drone. While in control of the drone, Fire to shoot a marking dart. This dart will reveal the location of any player struck by the dart.</td>
+                <td>"Recon Bow" - Equip a bow with recon bolt. Fire to send the bolt forward activating upon collision and revealing the location of nearby enemies caught in the line of sight of the bolt. Enemies can destroy this bolt. Hold Fire to extend the range of the projectile. Alternate Fire to add up to two bounces to this arrow.</td>
+                <td>"Hunter's Fury" - Equip a bow with three long-range, wall-piercing energy blasts. Fire to release an blast in a line in front of Sova dealing damage and revealing the location of enemies caught in the line. This ability can be RE-USED up to two more times while the ability timer is active.</td>
+            </tr>
+            <tr>
+                <td>"Shock Bolt" - Equip a bow with shock bolt. Fire to send the explosive bolt forward detonating upon collision and damaging players nearby. Hold Fire to extend the range of the projectile. Alternate Fire to add up to two bounces to this arrow.</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h1 id="weapon-title">Weapon Overview</h1>
+
+    <p id="description">Get to know all of the weapons in Valorant</p>
+
+
+
+
+    <h1>Pistol</h1>
+    <h3>Classic</h3>
+    <p class="weapon-overview-paragraph">The Classic is a pistol that does a relatively small amount of damage. 
+        However, you get it for free when you spawn in the game, and it works well for rounds you want to save on.
+        It has two modes of fire, each activated by left or right clicking. When you left click, it shoots one bullet, 
+        and when you right click, it shoots out 3 bullets in a shotgun-like fashion. The alternate fire is useful for jump peeking
+        or holding tight angles.</p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/5/57/Classic.png/revision/latest/scale-to-width-down/350?cb=20200404154125" alt="The Classic Pistol" class="weapon-images">
+
+
+    
+    <h3>Shorty</h3>
+    <p class="weapon-overview-paragraph">The Shorty is in the pistol category despite being a shotgun. For its 200 credit price, it is very 
+        useful to hold angles. You can also use it along with Raze's satchels to fly around corners and get easy kills.
+    </p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/7/77/Shorty.png/revision/latest/scale-to-width-down/350?cb=20200404154222" alt="The Shorty Pistol" class="weapon-images">
+
+    <h3>Frenzy</h3>
+    <p class="weapon-overview-paragraph">The Frenzy is a fully automatic pistol that costs just 400 credits. If you don't want to bother with
+        trying to be accurate, use this weapon to spray down enemies at close range. It is a viable option for save rounds along 
+        with the Classic, but the recoil may be difficult to control at longer distances.
+    </p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/f/f1/Frenzy.png/revision/latest/scale-to-width-down/350?cb=20200404154617" alt="The Frenzy Pistol"class="weapon-images">
+    <h3>Ghost</h3>
+    <p class="weapon-overview-paragraph">The Ghost is a semi-automatic pistol that is mainly used for the amount of damage it does for the cost.
+        On enemies with no shields, the Ghost will kill them with one shot to the head. If they have full shields, it only increases to two.
+        The pistol's accuracy, damage, and reliability make it a useful pick for many situations, especially since it only costs 500 credits.
+    </p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/a/ab/Ghost.png/revision/latest/scale-to-width-down/350?cb=20200404154731" alt="The Ghost Pistol"class="weapon-images">
+    <h3>Sheriff</h3>
+    <p class="weapon-overview-paragraph">The Sheriff absolutely screams "I HAVE TOO MUCH CONFIDENCE!" Its ability to one shot kill fully armored 
+        opponents with a shot to the head makes it the main weapon of anyone who thinks they can aim really well. In any other department besides one taps, it falls
+        short due to its low accuracy and long pullout time. It could be a viable choice for economy rounds due to the damage output rivaling that
+        of the main rifles as well as the price tag of 800 credits.
+    </p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/3/3e/Sheriff.png/revision/latest/scale-to-width-down/350?cb=20200404154438" alt="The Sheriff Pistol" class="weapon-images">
+
+    <h1>SMG</h1>
+
+    <h3>Stinger</h3>
+    <p class="weapon-overview-paragraph">The Stinger is mostly used for its extremely high fire rate. It sits at a price point of 1000 credits, and is useful for 
+        close to mid range engagements. The primary fire (left-click) will fire the 20 bullet magazine at a speeding 18 rounds per second. The alternate fire
+        (right-click) will fire 3 bullets at a time in quick succession. This mode is usually used for longer ranges, since the high fire rate makes the recoil
+        extremely difficult to control.
+    </p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/b/b6/Stinger.png/revision/latest/scale-to-width-down/200?cb=20200404170849" alt="The Stinger SMG"class="weapon-images">
+    <h3>Spectre</h3>
+    <p class="weapon-overview-paragraph">The Spectre is usually something you use when you have a worse weapon and you find this dropped on the ground.
+        The 1,600 credit price point for this weapon is steep considering you could get a Ghost and a Stinger to better equip yourself for long and close range engagements.
+        You could also purchase another ability with the 100 credits left over, depending on your agent. It really isn't a very good choice.
+    </p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/9/90/Spectre.png/revision/latest/scale-to-width-down/350?cb=20200404170922" alt="The Spectre SMG"class="weapon-images">
+    <h1>Rifle</h1>
+
+    <h3>Bulldog</h3>
+    <p class="weapon-overview-paragraph">The Bulldog is the cheapest rifle in the bunch, and costs 2,100 credits. It can be used for force buy rounds
+        since it costs more than most SMGs. It has two fire modes, similarly to the Stinger. The normal fire (left-click)
+        gives you the full power of the weapon. It has a fire rate of 9.15 rounds per second. The alternate fire (right-click) 
+        gives a similar difference from the normal mode to the Stinger's alt fire. It shoots out 3 bullets in a burst fashion.</p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/0/07/Bulldog.png/revision/latest/scale-to-width-down/350?cb=20200404171103" alt="The Bulldog Rifle" class="weapon-images">
+    <h3>Guardian</h3>
+    <p class="weapon-overview-paragraph">The Guardian is like the Sheriff but with more upsides. It has the ability to one tap armored opponents similarly to the Sheriff, but costs
+        2400 credits. At a quadruple-fold price increase, what changes? Well, it can one tap armored opponents at ANY RANGE. It has a low damage dropoff,
+        and it has a 1.5x scope to help increase accuracy. It's a very useful weapon, but isn't used as much as the big two since they only cost a few hundred credits more.
+    </p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/f/fd/Guardian.png/revision/latest/scale-to-width-down/350?cb=20200404171224" alt="The Guardian Rifle"class="weapon-images">
+
+    <h3>Phantom</h3>
+    <p class="weapon-overview-paragraph">The Phantom is the counterpart to the Vandal in the rifle section. it is one of the two rifles that are most sought after in game.
+        It does less damage per bullet, but makes up for it with its higher fire rate, higher magazine capacity, silencer, first shot accuracy, and lower spread. However, 
+        it cannot one tap armored opponents, and damage drops off at long distances.</p>
+        <img src="https://static.wikia.nocookie.net/valorant/images/e/ec/Phantom.png/revision/latest/scale-to-width-down/1000?cb=20200404171302" alt="The Phantom Rifle"class="weapon-images">
+    
+    <h3>Vandal</h3>
+    <p class="weapon-overview-paragraph">The Vandal has a higher spread and recoil, but since the fire rate is slower, it can be easier to control. It sacrifices what the Phantom has
+        for a damage model where 1 headshot will kill a fully armored opponent at any range. 4 body shots will kill, as well as 5 leg shots. It has a 1.25x scope that, combined
+        with the nonexistent damage dropoff, is a greaat choice for long range battles, and can even rival the sniper rifles. </p>
+
+        <img src="https://static.wikia.nocookie.net/valorant/images/5/56/Vandal.png/revision/latest/scale-to-width-down/350?cb=20200404171348" alt="The Vandal Rifle" class="weapon-images">
+
+    <h1>Shotgun</h1>
+    <h3>Bucky</h3>
+    <p class="weapon-overview-paragraph">The Bucky is a cheap shotgun that is honestly overpowered. It costs 900 credits, and has 2 fire modes. The primary fire (left-click) 
+        fires 15 pellets with high falloff. The alternate fire (right-click) shoots a single shell which has 8 pellets and explodes at 8 meters. If the shell hits an enemy 
+        closer than 8 meters, it will only do 1 point of damage.The primary fire is basically useless at range, but you can extend it with the alternate fire. At 8 or fewer meters,
+         7 or more pellets are necessary to kill. At 8 to 12 meters, 9 are needed. It's really useful in coordination with Raze's satchels or a creative Sage wall.
+    </p>
+    <img src="https://static.wikia.nocookie.net/valorant/images/e/eb/Bucky.png/revision/latest/scale-to-width-down/349?cb=20200404171832" alt="The Bucky Shotgun" class="weapon-images">
+
+    <h3>Judge</h3>
+    <p class="weapon-overview-paragraph">The Judge is an automatic shotgun that does less damage than the Bucky but has a reduced spread and significantly higher fire 
+        rate. It shoots 12 bullets at a time, and 9 bullets are needed to oneshot and armored opponent.
+        All 12 are needed at 10-15 meters if they strike the body. If a bullet hits the head, it deals double damage.
+    </p>
+    <img src="https://static.wikia.nocookie.net/valorant/images/8/8a/Judge.png/revision/latest/scale-to-width-down/350?cb=20200404171858" alt="The Judge Shotgun"class="weapon-images">
+
+    <h1>Heavy</h1>
+    <h3>Ares</h3>
+    <p class="weapon-overview-paragraph">The Ares is the cheaper of the two heavy weapons. It costs 1600 credits, the same as the Spectre, and is suitable for a more 
+        passive playstyle. Its high wall penetration makes it useful for really cheesy plays where you spam down an angle. It is a light machine gun with a very large ammo capacity.
+    </p>
+
+    <img src="https://static.wikia.nocookie.net/valorant/images/0/05/Ares.png/revision/latest/scale-to-width-down/350?cb=20200404171957" alt="The Ares Heavy Weapon"class="weapon-images">
+
+    <h3>Odin</h3>
+    <p class="weapon-overview-paragraph">Also known as the "UGH I MISCLICKED", the Odin is usually what you buy on the last round of a match just to anger your opponents
+        and shove your ego in their face. It costs 3200 credits and using the primary fire, the firerate increases over time. If you use the 1.25x scope, you get higher accuracy 
+        and the ability to immediately start shooting at the maximum firerate, or 15.6 rounds per second.
+    </p>
+
+    <img src="https://static.wikia.nocookie.net/valorant/images/5/58/Odin.png/revision/latest/scale-to-width-down/349?cb=20200404172022" alt="The Odin Heavy Weapon"class="weapon-images">
+    
+    <h1>Sniper</h1>
+    
+    <h3>Marshal</h3>
+    <p class="weapon-overview-paragraph">
+        The Marshal is the cheaper counterpart of the Operator. You can move very quickly with it and it has a high damage per bullet.
+        The cost is 1100 credits. It has a quick scoping animation and very good noscoping accuracy.
+        This is useful for peeking an angle very quickly and chipping away at the health of enemies. It takes one shot to the head to 
+        kill, while two to the body kills against opponents with heavy armor. The cost makes it very efficient to use in a forcebuy.
+    </p>
+
+    <img src="https://static.wikia.nocookie.net/valorant/images/b/b9/Marshal.png/revision/latest?cb=20200404172126" alt="The Marshal Sniper"class="weapon-images">
+    
+    <h3>Operator</h3>
+    <p class="weapon-overview-paragraph">The Operator is the most expensive weapon and sniper, at 5000 credits. Its oneshot ability is what makes it a very strong weapon, completely shutting off 
+        any long-range pushes, and having pinpoint accuracy. The scope has a dual zoom mode where you can choose to use 2.5x zoom or 5x zoom.
+        However, it has a very low fire rate and noscoping accuracy, which makes it very difficult to use at close range. Most people would just take out their pistol if in a close range battle. 
+    </p>
+    <img id="op" src="https://static.wikia.nocookie.net/valorant/images/1/17/Operator.png/revision/latest/scale-to-width-down/350?cb=20200404172152" alt="The Operator Sniper"class="weapon-images">
+
+    <h2 id="tips-and-tricks">Tips and Tricks</h2>
+
+    <div id="tips-and-tricks-box">
+        <ol>
+            <li>Practice crosshair placement. Crosshair Placement is basically just keeping your crosshair at head level so you can instantly headshot someone who gets in your way. <a href="https://www.youtube.com/watch?v=VgKknM1SQOk">Video</a> </li>
+            
+            <li>Learn one or two agents inside out so you can use them repeatedly.</li>
+            
+            <li>If you want to go one step further, you can download programs such as Aimlab which can help take your aim to the next level.</li>
+        <ol>
+    </div>
+</body>
+</html>
